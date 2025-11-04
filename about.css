@@ -1,3 +1,19 @@
 .about{
-    background-color: blue;
+    background-color: red;
+    text-align: center;
+    font-family: Arial, Verdana;
+}
+.WikiaArticleInterlang {
+  align-items:baseline;
+  clear:both;
+  display:flex;
+  margin:10px;
+  padding:10px 0 0
+}
+.WikiaArticleInterlang {
+  align-items:baseline;
+  clear:both;
+  display:flex;
+  margin:10px;
+  padding:10px 0 0
 }
